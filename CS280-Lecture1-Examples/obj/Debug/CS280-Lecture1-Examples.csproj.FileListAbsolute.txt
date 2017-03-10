@@ -4,3 +4,9 @@ D:\Work\CSharp\CS280-Lecture1-Examples\CS280-Lecture1-Examples\bin\Debug\CS280-L
 D:\Work\CSharp\CS280-Lecture1-Examples\CS280-Lecture1-Examples\obj\Debug\CS280-Lecture1-Examples.csprojResolveAssemblyReference.cache
 D:\Work\CSharp\CS280-Lecture1-Examples\CS280-Lecture1-Examples\obj\Debug\CS280-Lecture1-Examples.exe
 D:\Work\CSharp\CS280-Lecture1-Examples\CS280-Lecture1-Examples\obj\Debug\CS280-Lecture1-Examples.pdb
+D:\CS280Projects\CS280-Lecture1-Examples\CS280-Lecture1-Examples\obj\Debug\CS280-Lecture1-Examples.pdb
+D:\CS280Projects\CS280-Lecture1-Examples\CS280-Lecture1-Examples\bin\Debug\CS280-Lecture1-Examples.dll.config
+D:\CS280Projects\CS280-Lecture1-Examples\CS280-Lecture1-Examples\bin\Debug\CS280-Lecture1-Examples.dll
+D:\CS280Projects\CS280-Lecture1-Examples\CS280-Lecture1-Examples\bin\Debug\CS280-Lecture1-Examples.pdb
+D:\CS280Projects\CS280-Lecture1-Examples\CS280-Lecture1-Examples\obj\Debug\CS280-Lecture1-Examples.csprojResolveAssemblyReference.cache
+D:\CS280Projects\CS280-Lecture1-Examples\CS280-Lecture1-Examples\obj\Debug\CS280-Lecture1-Examples.dll

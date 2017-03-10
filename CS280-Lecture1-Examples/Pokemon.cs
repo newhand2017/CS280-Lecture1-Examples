@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CS280_Lecture1_Examples
 {
-    internal class Pokemon
+    public class Pokemon
     {
         public float Height;
         public float Weight;
